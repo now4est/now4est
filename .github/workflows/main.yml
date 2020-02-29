@@ -10,5 +10,8 @@ jobs:
     steps:
     - name: Run a one-line script
       env:
-        GITHUB_EVENT: ${{ toJson(github.event) }}
-      run: echo $GITHUB_EVENT
+        IC_BODY: ${{ github.event.comment.body }}
+        IC_URL: ${{ github.event.comment.html_url }}
+      run: |
+        echo $IC_BODY
+        echo $IC_URL
