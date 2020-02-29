@@ -1,4 +1,4 @@
-name: CI
+name: issue_comment_created
 
 on:
   issue_comment:
@@ -8,7 +8,7 @@ jobs:
   my_job:
     runs-on: ubuntu-latest
     steps:
-    - name: Run a one-line script
+    - name: run
       env:
         IC_BODY: ${{ github.event.comment.body }}
         IC_URL: ${{ github.event.comment.html_url }}
