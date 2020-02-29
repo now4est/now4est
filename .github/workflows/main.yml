@@ -1,0 +1,11 @@
+name: CI
+
+on: [push]
+
+jobs:
+  my_job:
+    steps:
+    - name: Run a one-line script
+      env:
+        GITHUB_EVENT: ${{ toJson(github.event) }}
+      run: echo $GITHUB_EVENT
