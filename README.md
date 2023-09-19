@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 <https://zenn.dev/now4est>
+- 😴 <https://twitter.com/now4est>
+- 😴 <https://atcoder.jp/users/now4est>
+    - 😴 <https://kenkoooo.com/atcoder/#/user/now4est>
