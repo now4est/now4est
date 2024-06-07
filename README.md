@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Arch Linux とか xmonad とか Neovim とか zsh などで時間を溶かすのが好きです。
-
-- 😄 <https://zenn.dev/now4est>
-- 😴 <https://twitter.com/now4est>
-- 😴 <https://atcoder.jp/users/now4est>
-    - 😴 <https://kenkoooo.com/atcoder/#/user/now4est>
+- <https://www.codingame.com/profile/7dc8883fc13524d59749541a8a55737d9509385>
+- <https://zenn.dev/now4est>
+- <https://twitter.com/now4est>
+- <https://atcoder.jp/users/now4est>
+    - <https://kenkoooo.com/atcoder/#/user/now4est>
